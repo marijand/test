@@ -1,0 +1,32 @@
+# Copy to config/settings.yaml and adjust.
+
+app:
+  name: PrayFocus
+  url: https://www.prayfocus.app
+  one_liner: "A Christian prayer & focus app that helps you build a steady, distraction-free prayer habit."
+  sender_name: "Marijan"          # used in template merge fields
+  physical_address: "PrayFocus, 123 Example St, City, Country"   # CAN-SPAM footer
+
+database:
+  path: data/outreach.db
+
+personalize:
+  model: claude-sonnet-4-6        # Sonnet 4.6 — good quality/cost for per-prospect drafting
+  max_tokens: 600
+  # use claude-opus-4-8 for your highest-value journalist/partner targets
+
+scoring:
+  # weights for total = relevance*w_rel + authority*w_auth + ease*w_ease
+  weight_relevance: 0.45
+  weight_authority: 0.35
+  weight_ease: 0.20
+
+# per-category relevance prior (0-1) for a Christian prayer/focus app
+relevance_priors:
+  app_directory: 0.7
+  review_site: 0.75
+  blog: 0.8
+  podcast: 0.8
+  journalist: 0.85
+  partner: 0.9
+  resource_page: 0.85
