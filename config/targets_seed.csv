@@ -1,13 +1,64 @@
 name,url,category,opportunity_type,contact_name,contact_email,notes
-AlternativeTo,https://alternativeto.net,app_directory,backlink,,,Submit PrayFocus as an alternative to popular prayer/focus apps
-Product Hunt,https://www.producthunt.com,app_directory,backlink,,,Plan a coordinated launch day
-SaaSHub,https://www.saashub.com,app_directory,backlink,,,Submit listing; links to alternatives
-Crosswalk,https://www.crosswalk.com,review_site,backlink,,,Major Christian living site; pitch a review/mention
-Relevant Magazine,https://relevantmagazine.com,journalist,press,,,Faith + culture; pitch story on focus & prayer
-Christianity Today,https://www.christianitytoday.com,journalist,press,,,Religion-beat; data-led story angle
-Bible Gateway Blog,https://www.biblegateway.com/blog,blog,backlink,,,Devotional audience; guest post angle
-PodMatch,https://www.podmatch.com,podcast,partnership,,,Match with Christian podcast hosts
-Ann Voskamp,https://annvoskamp.com,blog,backlink,,,Influential Christian writer; resource mention
-The Gospel Coalition,https://www.thegospelcoalition.org,review_site,backlink,,,Resource roundups; pitch inclusion
-YouVersion (Life.Church),https://www.youversion.com,partner,partnership,,,Complementary Bible app; explore cross-promo
-Premier Christianity,https://www.premierchristianity.com,journalist,press,,,UK Christian media; pitch feature
+faith.tools,https://faith.tools/,app_directory,backlink,,,Premier curated Christian app directory; paid submission as of 2026 — read selection criteria
+RAPT Interviews,https://raptinterviews.com/,review_site,press,,,Award-winning Christian newsletter; pitch for an apps roundup
+GetSermons Blog,https://getsermons.app/blog/,blog,backlink,,,Publishes best Christian apps listicles
+Purposeful Her,https://purposefulher.com/,blog,backlink,,,100 Best Christian Apps list; female Christian readership
+Christian App Store,http://christianappstore.com/,app_directory,backlink,,,Dedicated Christian app storefront; submit directly
+iBelieve.com,https://www.ibelieve.com/,review_site,press,,,Salem network women's faith site; pitch via Crosswalk write-for-us
+Global Christian Relief,https://globalchristianrelief.org/stories/,blog,backlink,,,Best Christian apps for healthy habits roundup
+Cornerstone SF Top 20 Apps,https://www.cornerstonesf.org/top-20-christian-apps-we-recommend/,blog,backlink,,,Church-published app recommendation list
+Dear Bold Believer,https://dearboldbeliever.com/,blog,backlink,,,Best Christian apps for beginners lists
+FaithTime AI,https://www.faithtime.ai/,blog,backlink,,,AI Christian content; app comparison guides
+actssocial,https://actssocial.com/blog/best-daily-devotional-apps,blog,backlink,,,Ranked devotional/prayer app lists (2026)
+Product Hunt,https://www.producthunt.com/launch,app_directory,backlink,,,Schedule launch; personal account; 12:01 AM PST
+AlternativeTo,https://alternativeto.net/,app_directory,backlink,,,Wait 1 week then Suggest new application; free
+BetaList,https://betalist.com/,app_directory,press,,,Pre-launch community; free 2-month queue or paid
+SaaSHub,https://www.saashub.com/,app_directory,backlink,,,Free; claim/create product page
+Capterra,https://www.capterra.com/vendors/,app_directory,backlink,,,One listing also covers GetApp + Software Advice
+G2,https://app.g2digitalmarkets.com/get-listed/start,app_directory,backlink,,,Largest B2B review site; free basic listing
+GetApp,https://www.getapp.com/listing_guidelines/,app_directory,backlink,,,Gartner/G2 network; covered by Capterra submission
+AppSumo,https://appsumo.com/partner-apply/,app_directory,partnership,,,LTD model; requires 500-10k codes; 120-day commitment
+Uneed,https://www.uneed.best/,app_directory,backlink,,,Product Hunt alternative; active makers
+Peerlist,https://peerlist.io/,app_directory,backlink,,,Tech pro community ~200k/mo
+Indie Hackers,https://www.indiehackers.com/,app_directory,backlink,,,Post a Show IH launch/story; free
+The Gospel Coalition,https://www.thegospelcoalition.org/,review_site,backlink,,pitcherpublished@thegospelcoalition.org,Tech/culture pitches; high-authority
+Crosswalk,https://www.crosswalk.com/,review_site,backlink,,,Salem flagship; see crosswalk.com/write-for-us.html
+Mere Orthodoxy,https://mereorthodoxy.com/,blog,press,,submissions@mereorthodoxy.com,Angle: theology of attention; press@mereorthodoxy.com
+Christ and Pop Culture,https://christandpopculture.com/,blog,press,,,Faith + culture; focus/prayer tech angle
+Desiring God,https://www.desiringgod.org/,blog,press,,,Guest article on prayer discipline; high editorial bar
+Seedbed,https://www.seedbed.com/,blog,backlink,,,Spiritual formation; habit-formation piece
+She Reads Truth,https://shereadstruth.com/,partner,partnership,,,Women's Bible study app; content partnership
+Risen Motherhood,https://www.risenmotherhood.com/,blog,backlink,,,Prayer app for busy moms
+izzabelle,https://izzabelle.co/,blog,backlink,,,Free Christian apps roundups
+The FaithTech Podcast,https://www.faithtech.com/podcast,podcast,press,,,Faith-and-tech thinkers; via faithtech.com
+Faith & Tech (Mike Sudyk),https://faithtech.transistor.fm/,podcast,press,,,Faith/technology intersection interviews
+Church Tech Today Podcast,https://churchtechtoday.com/podcast,podcast,partnership,,kenny@churchtechtoday.com,#1 church-tech publication podcast
+Carey Nieuwhof Podcast,https://careynieuwhof.com/,podcast,press,,,Top church leadership show; needs strong angle
+The Unstuck Church Podcast,https://theunstuckgroup.com/,podcast,press,,,Practical church-leader tools
+Church Tech Podcast (Tithe.ly),https://get.tithe.ly/,podcast,press,,,Digital transformation of the church
+Risen Motherhood Podcast,https://www.risenmotherhood.com/podcast,podcast,press,,,Prayer for women juggling family
+The Pour Over Podcast,https://thepourover.org/,podcast,press,,,1.6M reader newsletter + podcast
+Christianity Today,https://www.christianitytoday.com/,journalist,press,,,Evangelical flagship; news tips form; idea-driven stories
+Relevant Magazine,https://relevantmagazine.com/,journalist,press,,info@relevantmag.com,Christian 20s-30s; relevantmagazine.com/write/
+Premier Christianity,https://www.premierchristianity.com/,journalist,press,,sam.hailes@premier.org.uk,UK Christian magazine; 200-300 word pitches
+Premier Christian News,https://premierchristian.news/,journalist,press,,,News arm; faith-tech launch pitch
+The Christian Post,https://www.christianpost.com/,journalist,press,,,Widely read Christian news; strong app coverage
+WORLD Magazine,https://wng.org/,journalist,press,,editor@wng.org,Weekly Christian newsmagazine; 400k+ readers
+ChurchTechToday,https://churchtechtoday.com/,journalist,press,,kenny@churchtechtoday.com,200k+ ministry leaders; accepts press releases + guest posts
+Religion News Service,https://religionnews.com/,journalist,press,,,Syndicated religion wire; AP/Reuters pickup
+Faith News Service,https://faithnewsservice.com/,journalist,press,,,Faith press-release distribution
+TechCrunch,https://techcrunch.com/,journalist,press,,,Covered Hallow/Glorify raises; faith-tech market angle
+FaithTech,https://www.faithtech.com/,partner,partnership,,,Global Christians-in-tech community; Labs pitch challenge
+YouVersion,https://www.bible.com/,partner,partnership,,,World's most downloaded Bible app; co-branded prayer plan
+Glorify,https://glorify-app.com/,partner,partnership,,,#1 Christian devotional app; complementary
+Hallow,https://hallow.com/,partner,partnership,,,Leading Catholic prayer app; ecumenical cross-promo
+Cru,https://www.cru.org/,partner,partnership,,,Massive evangelical ministry; recommends apps
+FamilyLife,https://www.familylife.com/,partner,partnership,,,Marriage/family ministry; prayer-for-couples feature
+Focus on the Family,https://www.focusonthefamily.com/,partner,partnership,,,Major global ministry; church partnership programs
+The Navigators,https://www.navigators.org/,partner,partnership,,,Discipleship ministry; prayer emphasis
+The Pour Over,https://thepourover.org/newsletter,partner,partnership,,,1.6M reader newsletter; sponsored placement
+Crosswalk Newsletters,https://www.crosswalk.com/newsletters/,partner,partnership,,,Salem daily email newsletters; sponsorship
+PrayerMate,https://www.prayermate.net/app,partner,partnership,,,Prayer-list app; cross-promotion
+Echo Prayer,https://www.echoprayer.com/,partner,partnership,,,Prayer list + reminder app; co-marketing
+BibleProject,https://bibleproject.com/,partner,partnership,,,Huge young-evangelical following; co-branded campaign
+Christian Tech Jobs,https://www.christiantechjobs.io/newsletter,partner,partnership,,,28k+ Christian tech pros; sponsored feature
