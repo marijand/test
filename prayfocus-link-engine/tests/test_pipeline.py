@@ -3,14 +3,14 @@
 import os
 import tempfile
 
-from prayfocus_outreach.db import Store
-from prayfocus_outreach.models import Prospect
-from prayfocus_outreach.enrich import enrich_domain_authority, find_contact
-from prayfocus_outreach.score import score_prospect
-from prayfocus_outreach.personalize import personalize_prospect
-from prayfocus_outreach.compose import compose_draft
-from prayfocus_outreach.export import export_drafts
-from prayfocus_outreach.compliance import draft_is_compliant
+from prayfocus_link_engine.db import Store
+from prayfocus_link_engine.models import Prospect
+from prayfocus_link_engine.enrich import enrich_domain_authority, find_contact
+from prayfocus_link_engine.score import score_prospect
+from prayfocus_link_engine.personalize import personalize_prospect
+from prayfocus_link_engine.compose import compose_draft
+from prayfocus_link_engine.export import export_drafts
+from prayfocus_link_engine.compliance import draft_is_compliant
 
 APP_CFG = {
     "name": "PrayFocus",

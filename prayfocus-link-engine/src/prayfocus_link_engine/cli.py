@@ -1,14 +1,14 @@
 """Command-line interface — orchestrates the pipeline. Never sends anything.
 
 Commands:
-    prayfocus import <csv>      import seed targets
-    prayfocus enrich            attach authority + contact signals
-    prayfocus score             rank prospects
-    prayfocus personalize       Claude-drafted opener + angle (per prospect)
-    prayfocus compose           build subject + body + compliant footer
-    prayfocus export            write review-ready drafts (md/csv)
-    prayfocus list              show the top-ranked prospects
-    prayfocus run <csv>         import → enrich → score → personalize → compose
+    prayfocus-links import <csv>      import seed targets
+    prayfocus-links enrich            attach authority + contact signals
+    prayfocus-links score             rank prospects
+    prayfocus-links personalize       Claude-drafted opener + angle (per prospect)
+    prayfocus-links compose           build subject + body + compliant footer
+    prayfocus-links export            write review-ready drafts (md/csv)
+    prayfocus-links list              show the top-ranked prospects
+    prayfocus-links run <csv>         import → enrich → score → personalize → compose
 """
 
 from __future__ import annotations
@@ -118,11 +118,11 @@ def cmd_run(args, cfg) -> None:
     cmd_score(args, cfg)
     cmd_personalize(args, cfg)
     cmd_compose(args, cfg)
-    console.print("[bold green]Pipeline complete.[/] Run `prayfocus export` to get drafts.")
+    console.print("[bold green]Pipeline complete.[/] Run `prayfocus-links export` to get drafts.")
 
 
 def build_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(prog="prayfocus", description=__doc__)
+    p = argparse.ArgumentParser(prog="prayfocus-links", description=__doc__)
     p.add_argument("--config", default="config/settings.yaml")
     sub = p.add_subparsers(dest="command", required=True)
 

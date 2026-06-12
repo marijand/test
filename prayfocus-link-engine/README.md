@@ -1,4 +1,4 @@
-# PrayFocus Outreach Engine
+# PrayFocus Link Engine
 
 A Python toolkit that automates **every step of a backlink + press outreach
 campaign except the actual sending**. Built for [prayfocus.app](https://www.prayfocus.app),
@@ -43,15 +43,15 @@ cp .env.example .env          # add ANTHROPIC_API_KEY (+ optional enrichment key
 cp config/settings.example.yaml config/settings.yaml
 
 # 1. Load seed targets and run the full pipeline (no sending)
-prayfocus import config/targets_seed.csv
-prayfocus enrich
-prayfocus score
-prayfocus personalize        # uses Claude; skips gracefully without a key
-prayfocus compose
-prayfocus export --format md --out data/drafts.md
+prayfocus-links import config/targets_seed.csv
+prayfocus-links enrich
+prayfocus-links score
+prayfocus-links personalize        # uses Claude; skips gracefully without a key
+prayfocus-links compose
+prayfocus-links export --format md --out data/drafts.md
 
 # inspect ranked opportunities
-prayfocus list --top 25
+prayfocus-links list --top 25
 ```
 
 Every step also runs offline with graceful fallbacks (no API keys required) so
